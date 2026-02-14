@@ -19,9 +19,9 @@
           "sha256": "399526c066fdfaa04495c2c01c398efb380db5467f4ae2e17b13c39747848258"
         },
         {
-          "file": "sounds/Cue_the_music.mp3",
-          "label": "Cue the music.",
-          "sha256": "93daa3e83e96c062f1ea81bb4ab880a394971c56e2608def7ebea9c4f1103eae"
+          "file": "sounds/Did_I_say_this_was_a_love_story.mp3",
+          "label": "Did I say this was a love story?",
+          "sha256": "9fb791f1e692fda9712440ab0926464e2a4a3d42b14fb9cb2fb38527a6ee3fc5"
         },
         {
           "file": "sounds/Captain_Deadpool.mp3",
@@ -48,9 +48,9 @@
           "sha256": "32d9b77dae52805c786123567ff65206a0feae6c1b371a4d6b3d9161034601c7"
         },
         {
-          "file": "sounds/Damn_straight.mp3",
-          "label": "Damn straight.",
-          "sha256": "41b3d75040eb1972b9053edba2a035f28ca6fbd84f002a0c5bd6c431eeb97f62"
+          "file": "sounds/Deal.mp3",
+          "label": "Deal.",
+          "sha256": "3742658cbae2fc36d9eaf0d37ee7306bd3fbea0b3faa927d227fe0ccbfdb58bd"
         },
         {
           "file": "sounds/It_s_time_to_put_balls_in_holes.mp3",
@@ -135,14 +135,14 @@
           "sha256": "39f307a0869296d65e0f47f94954f2dfa4481c50fff2fc41e192d9304924e526"
         },
         {
-          "file": "sounds/How_can_I_help_you.mp3",
-          "label": "How can I help you?",
-          "sha256": "1255b814ab104ffbcbf325288367e331cdbddbec57a0b737b434adc61a9dcd6a"
+          "file": "sounds/Ding_ding.mp3",
+          "label": "Ding ding!",
+          "sha256": "2613f314654d0c7a34d1bd45eaa60580aedec55188a85075d4cf91010b3d9952"
         },
         {
-          "file": "sounds/Come_on_get_it_together.mp3",
-          "label": "Come on, get it together.",
-          "sha256": "f78b20e4b0d651b604fa3da46cd5fd1b5118923512eaa62b3fe13f2f0ab0aa32"
+          "file": "sounds/Don_t_make_me_ask_twice.mp3",
+          "label": "Don't make me ask twice.",
+          "sha256": "571d1095cd90b51ecfc0c3a769ee407e2802859bb555fcfcc793bfbe68db0003"
         },
         {
           "file": "sounds/Leave_a_message_and_have_a_happy_day.mp3",
